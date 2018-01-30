@@ -4,7 +4,8 @@
 
 <hr>
 
-In this homework, I responded to the questions on class and *No Silver Bullet* by Frederick P. Brook, Jr.
+In this homework, I responded to the questions on class and *No Silver Bullet* by Frederick P. Brook, Jr. 
+Any and all information provided here is from in class lectures, or the *No Silver Bullet* paper we read.
 
 1.  **Essential difficulties** are those difficulties which are inherent in the problem we are trying to solve. By this, I mean that they are a difficulty which can not be “simplified” or “solved” in any easy way. In the case of software engineering, as Brooks has described, some tasks like the ever-changing nature of the hardware software engineers develop for requiring understanding and changes (conformity) to the code itself for this code to work on all machines are challenging in a way that cannot be simplified. These are problems that will always be there, and even through the introduction of many new technologies, strategies, and more, simply will not vanish.
 2.  **Accidental difficulties** are difficulties which are caused by insufficient understanding, preparation, or tools, which cause a problem to be much harder than it needs to be. These problems are those that can be solved with the introduction of new technologies or strategies. In the software engineering field, we have had massive jumps in technology, and for example, Brooks talks about “time-sharing.” The essential idea behind this is that at one point, to compile and test your code, the engineers had to go to a specific system that everyone shared, while now, everyone can compile, build, run, etc. all from a terminal from their own machine. This problem wasn’t caused because “software engineering is hard,” but because “technology was still advancing,” therefore, it is a difficulty that is not inherent in the problem, but exists only because of being insufficiently prepared, having the wrong tools, etc.
